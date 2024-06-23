@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi there 👋<br><br>I'm Muhammad Sharif Ullah, a passionate developer with a love for creating amazing mobile applications<br><br>- 🔭 I’m currently working on **POS**, **Boat Fuelling System App**, and **Task Management System**<br>- 👯 I’m looking to collaborate on **open source Flutter and Dart projects**<br>- 🌱 I’m currently learning **gRPC + Dart**<br>- 💬 Ask me about **Flutter** and **Dart**<br>- ⚡ **Fun fact:** I once coded an entire app while sailing across the Atlantic Ocean!<br><br>Feel free to reach out or connect with me. Let's build something great together!
+### Hi there 👋<br><br>I'm Muhammad Sharif Ullah, a passionate developer with a love for creating amazing mobile applications<br><br>- 🔭 I’m currently working on POS, Boat Fuelling System App, and Task Management System**<br>- 👯 I’m looking to collaborate on **open source Flutter and Dart projects**<br>- 🌱 I’m currently learning **gRPC + Dart**<br>- 💬 Ask me about **Flutter** and **Dart**<br>- ⚡ **Fun fact:** I once coded an entire app while sailing across the Atlantic Ocean!<br><br>Feel free to reach out or connect with me. Let's build something great together!
 
 
 ## 🌐 Socials:
