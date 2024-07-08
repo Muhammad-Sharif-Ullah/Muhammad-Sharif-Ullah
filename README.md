@@ -19,7 +19,7 @@ Hi there! 👋
 I'm Muhammad Sharif Ullah, a passionate developer with a love for creating amazing mobile applications.
 
 - 🔭 I’m currently working on POS, Boat Fuelling System App, and Task Management System.
-- 👯 Making a CLI tools to auto generate and configre `flutter` project with `python`
+- 👯 Making a [CLI tools](https://github.com/Muhammad-Sharif-Ullah/sharp) to auto generate and configre `flutter` project with `python`
 - 👯 I’m looking to collaborate on open source Flutter and Dart projects.
 - 🌱 I’m currently learning gRPC + Dart.
 - 💬 Ask me about Flutter and Dart.
